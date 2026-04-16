@@ -43,7 +43,17 @@
    "codigo": "7896020160069",
    "nome": "tenys pe baruel",
    "preco": 8.99
- }
+ },
+   {
+   "codigo": "7894900530001",
+   "nome": "agua mineral crystal",
+   "preco": 2.00
+   },
+   {
+   "codigo": "7894900550054",
+   "nome": "suco de uva valle",
+   "preco": 3.45
+   }
 ]
 
 
